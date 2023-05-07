@@ -39,6 +39,7 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
   
 <h2>:octocat: My GitHub Stats</h2>
 <details>
+  <!--
 <summary>Wakatime stats</summary>
   
 <p align="center">
@@ -46,7 +47,7 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
 [![amara_oussama_94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amara_oussama_94)](https://github.com/anuraghazra/github-readme-stats)
   
  </p>
-  
+ --> 
 </details>
 <details>
 <summary>General Stats</summary>
@@ -58,8 +59,8 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
     <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>-->
 <!--</div>-->
 <p align="center">
-     <a href="https://github.com/amaraoussama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <a href="https://github.com/mnajjaemna">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mnajjaemna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 <!--</div>-->
