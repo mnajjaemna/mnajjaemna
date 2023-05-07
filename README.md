@@ -112,7 +112,7 @@ Embedded System Developer Technician , My main interest is in Embedded Systems ,
 </div>
 </details>
 
-![snake animation](https://github.com/mnajjaemna/mnajjaemna/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
  <h4 align="center"> 
