@@ -76,7 +76,7 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
 <summary>Top languages</summary>
   <p align="center">
 <a href="https://github.com/amaraousaama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnajjaemna&layout=compact&langs_count=8&theme=great-gatsby"/>
     </a>
     </p>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
@@ -86,14 +86,14 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
 <summary>Streak stats</summary>
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com?user=mnajjaemna&theme=highcontrast&hide_border=true" alt="streak stats"/>
     </a>
   </p>
 </details>
 <details>
 <summary>Contribution Graph</summary><!--https://github.com/ashutosh00710/github-readme-activity-graph-->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amaraoussama94&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mnajjaemna&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </a>
 </details>
