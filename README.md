@@ -111,7 +111,8 @@ Embedded System Developer Technician , My main interest is in Embedded Systems ,
     <img alt="visitors counter" src="https://profile-counter.glitch.me/mnajjaemna/count.svg">
 </div>
 </details>
-<img alt="github contribution snake animation" src="https://github.com/mnajjaemna/mnajjaemna/blob/output/github-contribution-grid-snake.svg"
+
+![snake animation](https://github.com/mnajjaemna/mnajjaemna/blob/output/github-contribution-grid-snake2.svg)
 
 
  <h4 align="center"> 
