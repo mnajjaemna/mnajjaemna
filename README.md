@@ -2,10 +2,10 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="50">
   &nbsp; Welcome  &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="50"></p>  
-<h3 align="center"> &nbsp;  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎 &nbsp;</p>
+<h3 align="center"> &nbsp;  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Emna Mnajja . 🤝😎 &nbsp;</p>
 <p align="left">
     <a href="https://www.linkedin.com/in/oussama-amara-b29117144/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
- <a href="mailto:amara.ousama@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>  
+ <a href="mailto:mnajjaemna1993@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>  
   </p>
   
  <p align="center"><img src="https://media.tenor.com/wspoUO-g8-wAAAAi/plugdj-vibing.gif" width="90px"> 
