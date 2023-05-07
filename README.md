@@ -100,17 +100,17 @@ Embedded System Developer  technician , My main interest is in Embedded Systems 
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=amaraoussama94&theme=darkhub&no-frame=true&column=7">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=mnajjaemna&theme=darkhub&no-frame=true&column=7">
 </a>
 </details>
 <details>
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/amaraousaama94/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/mnajjaemna/count.svg">
 </div>
 </details>
-<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg"
+<img alt="github contribution snake animation" src="https://github.com/mnajjaemna/mnajjaemna/blob/output/github-contribution-grid-snake.svg"
 
 
  <h4 align="center"> 
